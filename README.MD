@@ -5,11 +5,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="CorTrt | LinkedIn" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CorTrt | LinkedIn" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp; &nbsp;https://www.linkedin.com/in/corentin-truffaut-0b42b71aa/
 
 <br />
 
-<img align="left" alt="codeSTACKr | Instagram" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />&nbsp; &nbsp;corentintruffaut@gmail.com
+<img align="left" alt="CorTrt | Mail" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />&nbsp; &nbsp;corentintruffaut@gmail.com
 
 <br />
 
