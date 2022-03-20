@@ -9,7 +9,7 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr | Instagram" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />&nbsp; &nbsp;trt.corentin@gmail.com
+<img align="left" alt="codeSTACKr | Instagram" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />&nbsp; &nbsp;corentintruffaut@gmail.com
 
 <br />
 
