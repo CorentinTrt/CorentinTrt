@@ -1,6 +1,5 @@
 ### Hi there, I'm Corentin, Web Developer and Teacher ! 👋
 
-- ⚙️&nbsp; I’m currently learning Vue.js
 - 🚀&nbsp; 2021 Goals: Learn more about low level languages
 
 ### Connect with me:
