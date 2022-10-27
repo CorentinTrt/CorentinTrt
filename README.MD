@@ -1,6 +1,7 @@
-### Hi there, I'm Corentin, Web Developer and Teacher ! 👋
+### Hi there, I'm Corentin, Web Developer ! 👋
 
-- 🚀&nbsp; 2021 Goals: Learn more about low level languages
+- I'm currently learning Go
+- 🚀&nbsp; 2023 Goals: Learn more about low level languages
 
 ### Connect with me:
 
