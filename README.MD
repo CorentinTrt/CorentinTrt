@@ -31,7 +31,7 @@
 <br />
 
 ### Tools
-<img align="left" alt="NVIM" width="45px" src="https://api.iconify.design/mdi:vimeo.svg?color=%23888888" />
+<img align="left" alt="NVIM" width="45px" src="https://api.iconify.design/simple-icons:neovim.svg?color=%23888888" />
 <img align="left" alt="Docker" width="45px" src="https://api.iconify.design/mdi:docker.svg?color=%23888888" />
 <img align="left" alt="Docker" width="45px" src="https://api.iconify.design/teenyicons:typescript-outline.svg?color=%23888888" />
 <br />
