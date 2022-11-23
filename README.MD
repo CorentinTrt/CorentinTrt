@@ -1,3 +1,5 @@
+
+
 ### Hi there, I'm Corentin, Web Developer ! 👋
 
 - I'm currently learning Go
@@ -5,16 +7,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="CorTrt | LinkedIn" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp; &nbsp;https://www.linkedin.com/in/corentin-truffaut-0b42b71aa/
-
-<br />
-
-<img align="left" alt="CorTrt | Mail" width="17px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />&nbsp; &nbsp;corentintruffaut@gmail.com
-
-<br />
-
-<img align="left" alt="CorTrt | Mail" width="20px" src="https://api.iconify.design/gg:website.svg?color=currentColor" />&nbsp; &nbsp;https://corentintruffaut.com
-
+[![Website](https://img.shields.io/badge/MY_WEBSITE-CHECK_IT_!-lightgrey?style=for-the-badge)](https://corentintruffaut.com/)
+[![Website](https://img.shields.io/badge/LINKEDIN-PROFIL-blue?style=for-the-badge)](https://www.linkedin.com/in/corentin-truffaut-0b42b71aa/)
 <br />
 
 ## Languages and Tools:
