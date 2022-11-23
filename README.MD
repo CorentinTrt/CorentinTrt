@@ -9,6 +9,8 @@
 
 [![Website](https://img.shields.io/badge/MY_WEBSITE-CHECK_IT_!-lightgrey?style=for-the-badge)](https://corentintruffaut.com/)
 [![Website](https://img.shields.io/badge/LINKEDIN-PROFIL-blue?style=for-the-badge)](https://www.linkedin.com/in/corentin-truffaut-0b42b71aa/)
+[![Website](https://img.shields.io/badge/UPWORK-PROFIL-success?style=for-the-badge)](https://www.upwork.com/freelancers/~01428868299569805c)
+
 <br />
 
 ## Languages and Tools:
