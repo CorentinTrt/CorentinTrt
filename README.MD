@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Corentin, Web Developer ! 👋
 
-- I'm currently learning Go
-- 🚀&nbsp; 2023 Goals: Learn more about low level languages
+- I'm currently learning OpenTelemtry and Cloud Architecture
+- 🚀&nbsp; 2025 Goals: Get the Google Cloud Architecture Certification
 
 ### Connect with me:
 
