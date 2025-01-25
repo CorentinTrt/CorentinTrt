@@ -16,13 +16,12 @@
 ## Languages and Tools:
 
 ### Frontend
+<img align="left" alt="Svelte" width="45px" src="https://api.iconify.design/ri:svelte-fill.svg?color=%23888888" />
 <img align="left" alt="React" width="45px" src="https://api.iconify.design/ri:reactjs-fill.svg?color=%23888888" />
 <img align="left" alt="Next" width="42px" src="https://api.iconify.design/file-icons:nextjs.svg?color=%23888888" />
 <img align="left" alt="Gatsby" width="45px" src="https://api.iconify.design/mdi:gatsby.svg?color=%23888888" />
 <img align="left" alt="Vue.Js" width="45px" src="https://api.iconify.design/mdi:vuejs.svg?color=%23888888" />
-<img align="left" alt="HTML" width="45px" src="https://api.iconify.design/ri:html5-fill.svg?color=%23888888" />
-<img align="left" alt="SASS" width="45px" src="https://api.iconify.design/mdi:sass.svg?color=%23888888" />
-<img align="left" alt="NVIM" width="45px" src="https://api.iconify.design/mdi:graphql.svg?color=%23888888" />
+<img align="left" alt="GrapQL" width="45px" src="https://api.iconify.design/mdi:graphql.svg?color=%23888888" />
 <br />
 <br />
 
@@ -36,6 +35,7 @@
 <img align="left" alt="NVIM" width="45px" src="https://api.iconify.design/simple-icons:neovim.svg?color=%23888888" />
 <img align="left" alt="Docker" width="45px" src="https://api.iconify.design/mdi:docker.svg?color=%23888888" />
 <img align="left" alt="Docker" width="45px" src="https://api.iconify.design/teenyicons:typescript-outline.svg?color=%23888888" />
+<img align="left" alt="Opentelemetry" width="45px" src="https://api.iconify.design/devicon-plain:opentelemetry.svg?color=%23888888" />
 <br />
 <br />
 <br />
